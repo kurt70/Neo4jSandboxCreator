@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SandboxCreator": {
+      "commandName": "Project",
+      "commandLineArgs": "c -driveruri:bolt://hobby-ajbenmahmnbggbkeagboncbl.dbs.graphenedb.com:24786 -connectionstring:https://hobby-ajbenmahmnbggbkeagboncbl.dbs.graphenedb.com:24780/db/data/ -userid:kurt2 -password:b.2qAo1yY9MLgK.yowFn0cQRPatxziu"
+    }
+  }
+}
